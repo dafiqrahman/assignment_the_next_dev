@@ -1,0 +1,62 @@
+body {
+    background-color: lightsteelblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#biodata{
+    background-color: white;
+    padding: 15px 10px;
+}
+
+#biodata img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 10px;
+}
+
+#biodata .nama{
+    margin: 12px 0px;
+}
+
+#biodata h1 {
+    font-size: 30px;
+}
+#biodata p {
+    font-size: 14px;
+    color: gray;
+}
+
+#biodata button{
+    padding: 9px 20px;
+    margin: 12px 2px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+#biodata .kontak{
+    background-color: mediumblue;
+    color: white;
+    border: 1px solid mediumblue;
+}
+
+#biodata .resume{
+    color: seagreen ;
+    background-color: white;
+    border: 1px solid seagreen;
+}
+
+#biodata .data_diri {
+    margin: 12px 0px;
+}
+
+#biodata .data_diri th {
+    padding-right:40px;
+}
+
+#form {
+    /* width: 84% ;
+    margin : auto; */
+    background-color: white;
+    margin: 40px auto;
+    padding: 15px;
+}
